@@ -171,6 +171,7 @@ All the necessary file and directory permissions can set by running this script:
 * In some places, ISPs blocks ports. Call them to check these ports arent blocked.
 * Tool to check if ports are blocked: https://www.yougetsignal.com/tools/open-ports/
 * Check firewall is off
+* Check VPN is off
 * Try forwarding a port that is not port 80.
 
 ### Manually updating the software from the Repository  
